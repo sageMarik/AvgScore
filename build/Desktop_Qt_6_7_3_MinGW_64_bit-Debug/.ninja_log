@@ -1,0 +1,9 @@
+# ninja log v6
+3	449	7554831073754398	AvgScore_autogen/timestamp	915a34d236be0902
+3	449	7554831073754398	AvgScore_autogen/mocs_compilation.cpp	915a34d236be0902
+3	449	7554831073754398	D:/cpp_projects/AvgScore/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/AvgScore_autogen/timestamp	915a34d236be0902
+3	449	7554831073754398	D:/cpp_projects/AvgScore/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/AvgScore_autogen/mocs_compilation.cpp	915a34d236be0902
+461	2172	7554831074437742	CMakeFiles/AvgScore.dir/AvgScore_autogen/mocs_compilation.cpp.obj	b26f1e65c7334f00
+467	2241	7554831074502807	CMakeFiles/AvgScore.dir/mainwindow.cpp.obj	d9eb7c5896654072
+464	2246	7554831074437742	CMakeFiles/AvgScore.dir/main.cpp.obj	7edd803001cdeeec
+2246	2447	7554831092299658	AvgScore.exe	62eee8d7994e8e9f
